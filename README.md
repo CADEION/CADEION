@@ -1,68 +1,121 @@
-# 👋 About Me
+<div align="center">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Cadeion+%F0%9F%91%8B;Full+Stack+Developer;QA+Automation+Engineer;MERN+Stack+Enthusiast;Bug+Hunter+%26+Builder" alt="Typing SVG" />
 
-- 🌱 I’m learning advanced Flutter and its architecture.
-- 👯 Looking to collaborate on Flutter and Firebase projects.
-- 📚 I regularly read tech blogs and articles to stay updated on industry trends.
+  <p>
+    <b>Building scalable web apps & ensuring quality through automation.</b>
+  </p>
 
----
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/Role-Full%20Stack%20%26%20QA-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-orange?style=for-the-badge&logo=googlemaps" />
+  </a>
 
-## 🌐 Socials
+  <br />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+  <a href="mailto:smdtahir99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
 
----
-
-## ⚒️ Tech Stack
-
-### Mobile Development:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-
-### Web & Frameworks:
-![Next.js](https://img.shields.io/badge/Nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats:
+### 👨‍💻 About Me
 
+I am a **Full Stack Developer** and **QA Automation Engineer** with a passion for creating robust, scalable web applications and ensuring software quality through comprehensive automation.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CADEION&layout=compact&theme=dark)
-
----
-
-## 🚀 Projects
-
-### 🌟 [NovaBot](https://github.com/CADEION/NovaBot)
-- A chatbot built using Flutter and Firebase, with real-time messaging support.
-
-### 🌟 [NutriPlan](https://github.com/CADEION/NutriPlan)
-- A Flutter app for personalized nutrition plans, using Firebase for authentication and data storage.
-
-### 🌟 [TrendTide](https://github.com/CADEION/TrendTide)
-- Stock data analysis app built with Streamlit and an LSTM model for predictions.
+- 💼 Currently working at **SymphonyAI** as a **QA Automation Intern**.
+- 🧪 Automating **ITSM workflows** and building scalable test frameworks.
+- 🧮 Previously improved DB performance by **40%** at **Egg Bucket**.
+- 🧠 **Core Strength:** Solving complex problems with **DSA** & **OOP**.
+- 🔭 **Working on:** Advanced Deepfake Mitigation Frameworks.
 
 ---
 
-## 🏆 Achievements
+### 🛠️ Technical Arsenal
 
-- 🏅 Top 10 team at Bangalore Hackathon out of 80 teams.
-- 💼 Leader of the group for FlipTicket - Theatre Management System, built using Django and Razorpay.
+<div align="center">
+
+| **Frontend & Backend** | **Database & Cloud** | **Testing & QA** | **Languages** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) | ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat&logo=playwright&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) | ![TestComplete](https://img.shields.io/badge/SmartBear-TestComplete-orange?style=flat) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+---
+
+### 🛣️ Experience
+
+#### 🧪 **QA Automation Intern** @ [SymphonyAI](https://www.symphonyai.com/)
+*Nov 2025 – Present | Remote / Hybrid*
+> *Automating ITSM workflows for a multi-tenant SaaS platform.*
+- ⚙️ Automated Incident, Change, and Service Request workflows using **TestComplete (BDD)** & **Playwright**.
+- 📉 Reduced manual regression effort by **60%** by building a data-driven modular framework.
+- 🔄 Integrated test suites into **Jenkins CI/CD** for reliable deployment.
+
+#### 💻 **Backend Developer Intern** @ [Egg Bucket](#)
+*Nov 2024 – Mar 2025 | Bangalore*
+> *Developed scalable backend services using Node.js & MongoDB.*
+- 🚀 Improved **MongoDB aggregation performance by 40%**.
+- 📍 Implemented **Firebase Auth & Realtime DB** for logistics tracking.
+- 🔄 Worked in Agile sprints with rigorous unit testing.
+
+---
+
+### 🚀 Featured Projects
+
+| **🎬 FlipTicket (MERN)** | **✈️ TripPlanner (AI)** |
+| :--- | :--- |
+| A full-stack theatre booking platform with RBAC and secure payments. | An AI-powered travel planner generating real-time itineraries. |
+| **Stack:** React, Node.js, MongoDB, JWT | **Stack:** OpenAI API, Google Places, MERN |
+| • Secure REST APIs with JWT Auth<br>• Scalable OOP Architecture<br>• Integrated Payment Gateway | • Real-time location suggestions<br>• Modular backend architecture<br>• Optimized for high performance |
+| [🔗 View Code](#) | [🔗 View Code](#) |
+
+---
+
+### 🏆 Achievements & Education
+
+<div align="center">
+
+| **Education** | **Achievements** |
+| :--- | :--- |
+| **B.E. Computer Science**<br>Dayananda Sagar College of Engineering<br>🎓 **CGPA: 9.0** | 🥇 **1st Place** - CTF Competition (150+ Teams)<br>🥈 **2nd Place** - Codewars Hackathon<br>🧩 **100+** LeetCode Problems Solved<br>🤝 **NSS Volunteer** Leader |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <br />
+  <p>Let's create something amazing together!</p>
+  <p>
+    <a href="mailto:smdtahir99@gmail.com">📧 smdtahir99@gmail.com</a> • 
+    <a href="tel:+917569400387">📱 +91-7569400387</a>
+  </p>
+</div>
